@@ -44,8 +44,3 @@ pip install streamlit
 #     st.success(f"Result: {result}")
 #
 
-!streamlit run calculator_app.py
-
-!pip install streamlit
-
-!streamlit deploy calculator_app.py
