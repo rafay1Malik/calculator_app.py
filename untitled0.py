@@ -10,7 +10,6 @@
 
 # """
 
-pip install streamlit
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile calculator_app.py
